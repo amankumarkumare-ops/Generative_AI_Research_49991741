@@ -1,0 +1,31 @@
+Interview Transcript - Participant P001
+Date: 5 October 2026
+Project: Using Generative AI Tools - Boon or Bane
+
+[NOTE: This is a fictional template transcript for demonstration purposes.]
+
+---
+
+Interviewer: Thank you for participating. Could you tell me how you first started using generative AI tools?
+
+Participant: I first started using ChatGPT about a year ago when working on a research assignment. A classmate recommended it, and I found it helpful for brainstorming ideas.
+
+Interviewer: How often do you use generative AI tools?
+
+Participant: I use them almost daily now. Mainly ChatGPT for writing assistance and GitHub Copilot for coding tasks.
+
+Interviewer: What are the main benefits you have experienced?
+
+Participant: The biggest benefit is productivity. I can generate drafts much faster, and it helps me overcome writer's block.
+
+Interviewer: Have you experienced any concerns?
+
+Participant: Yes, I am concerned about accuracy. Sometimes the information is incorrect. I also worry about privacy.
+
+Interviewer: Would you recommend generative AI tools to others?
+
+Participant: Yes, but people should always verify the outputs and not rely on them blindly.
+
+---
+
+End of transcript.
